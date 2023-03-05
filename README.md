@@ -18,10 +18,10 @@ This function contains a list of notes as an example of how the outputNote() fun
 
 # Example
 python code
-```from note_taker import inputNote, outputNote
+from note_taker import inputNote, outputNote
 
 notes = inputNote()
-outputNote(notes)```
+outputNote(notes)
 
 # Credits
 This script was created by `https://www.linkedin.com/in/mirjalol-shavkatov/` as part of a note-taking exercise.
