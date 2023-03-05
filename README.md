@@ -1,5 +1,4 @@
-# it_community_notes
-Notes from the Opening ceremony of an IT Community of Uzbekistan (ICU)
+# Notes from the Opening Ceremony of an IT Community of Uzbekistan (ICU)
 
 # Introduction
 This is a simple Python script that allows users to input notes and output them in a formatted manner.
